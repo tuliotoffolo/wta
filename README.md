@@ -10,8 +10,8 @@ The developed approach is described by [this article](http://www.toffolo.com.br)
 
 ```bib
 @article{
-  Pavlikov2020,,
-  author = "Alexandre Colaers Andersen and Konstantin Pavlinkov and T\'{u}lio Angelo Machado Toffolo",
+  AndersenPavlikovToffolo2020,
+  author = "Alexandre Colaers Andersen and Konstantin Pavlikov and T\'{u}lio Angelo Machado Toffolo",
   title = "Weapon-Target Assignment Problem: Exact and Approximate Solution Algorithms",
   journal = "Annals of Operations Research",
   volume = "?",
