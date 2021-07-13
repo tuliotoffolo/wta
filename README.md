@@ -9,11 +9,10 @@ Please address all contributions, suggestions, and inquiries to the current proj
 The developed approach is described by [this article](http://www.toffolo.com.br). To cite the code or the paper, please use the following bibtex:
 
 ```bib
-@article{
-  AndersenPavlikovToffolo2020,
+@article{AndersenPavlikovToffolo2020,
   author = "Alexandre Colaers Andersen and Konstantin Pavlikov and T\'{u}lio Angelo Machado Toffolo",
   title = "Weapon-Target Assignment Problem: Exact and Approximate Solution Algorithms",
-  journal = "Annals of Operations Research",
+  journal = "?",
   volume = "?",
   number = "?",
   pages = "?--?",
