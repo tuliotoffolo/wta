@@ -6,7 +6,7 @@ Please address all contributions, suggestions, and inquiries to the current proj
 
 ### More information
 
-The developed approach is described by [this article](http://www.toffolo.com.br). To cite the code or the paper, please use the following bibtex:
+The developed approach is described by [this article](https://github.com/tuliotoffolo/wta). To cite the code or the paper, please use the following bibtex:
 
 ```bib
 @article{AndersenPavlikovToffolo2020,
