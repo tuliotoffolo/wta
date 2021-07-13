@@ -527,9 +527,9 @@ class WTA_BranchAdjust_Int(WTA):
                 solution_source = "heuristic" if self.get_solution_source() == self.solution_source.heuristic_solution else "node"
                 for out in [sys.stdout, sys.stderr]:
                     print("", file=out)
-                    print("Error with instance %s (delta=%f)" % (self.wta.params.instance_file, self.wta.params.delta), file=out)
-                    print("    Invalid objective value: %f < %f" % (obj_adjusted, obj), file=out)
-                    print("    Solution obtained by '%s'" % solution_source, file=out)
+                    print("Note on instance %s (delta=%f)" % (self.wta.params.instance_file, self.wta.params.delta), file=out)
+                    print("    Unexpected objective value: %f < %f" % (obj_adjusted, obj), file=out)
+                    print("    Important: solution obtained by *%s*" % solution_source, file=out)
                     print("", file=out)
 
                 # try:
