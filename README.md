@@ -42,7 +42,7 @@ Options:
 
 Examples:
 - ``python3 wta_cplex.py data/wta_50x100x1.txt``
-- ``python3 wta_cplex.py data/wta_50x100x1.txt -delta 0.00001 -solutionsolutions/wta_50x100x1.txt.1.solution -threads 1``
+- ``python3 wta_cplex.py data/wta_50x100x1.txt -delta 0.00001 -solution solutions/wta_50x100x1.sol -threads 1``
 
 ### Instance and solution files
 
