@@ -50,7 +50,7 @@ Instance and solution files are available in the ``data`` folder of this reposit
 
 ### Requirements
 
-The entire code was written in Python 3 using *Cplex 10*'s library. Therefore, *Cplex* must be installed in your system.
+The entire code was written in Python 3 using *Cplex 12.10*'s library. Therefore, *Cplex* must be installed in your system.
 
 ## Questions?
 
