@@ -1,4 +1,4 @@
-# Branch-and-adjust for the Weapon Target Assignment Problem (WTA)
+# Branch-and-adjust for a theoretical Weapon Target Assignment Problem (WTA)
 
 Written by **Túlio Toffolo** and **Konstantin Pavlikov**.
 
