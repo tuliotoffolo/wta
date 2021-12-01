@@ -1,10 +1,12 @@
-# Branch-and-adjust for an Assignment Problem
+# Branch-and-adjust for a Non-llinear Assignment Problem
 
 Written by **Túlio Toffolo** and **Konstantin Pavlikov**.
 
 Please address all contributions, suggestions, and inquiries to the current project administrator.
 
 ### More information
+
+This repository contains a solver for the Weapon-Target Assignment Problem (WTA). 
 
 The developed approach is detailed in an article currently under revision. More information will be available here soon.
 
