@@ -1,4 +1,4 @@
-# Branch-and-adjust for a Non-llinear Assignment Problem
+# Branch-and-adjust for a non-linear Assignment Problem
 
 Written by **Túlio Toffolo** and **Konstantin Pavlikov**.
 
