@@ -25,7 +25,7 @@ The developed approach is detailed in the following [article](https://link.sprin
 }
 ```
 
-To cite the code or the paper, please use the bibtex above.
+To cite the code, please use the bibtex above.
 
 ### Usage:
 
