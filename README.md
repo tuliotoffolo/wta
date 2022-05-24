@@ -8,24 +8,24 @@ Please address all contributions, suggestions, and inquiries to the current proj
 
 This repository contains a solver for the Weapon-Target Assignment Problem (WTA). 
 
-The developed approach is detailed in an article currently under revision. More information will be available here soon.
-
-<!--
-To cite the code or the paper, please use the following bibtex:
+The developed approach is detailed in the following [article](https://link.springer.com/article/10.1007/s10479-022-04525-6):
 
 ```bib
+
 @article{AndersenPavlikovToffolo2020,
-  author = "Alexandre Colaers Andersen and Konstantin Pavlikov and T\'{u}lio Angelo Machado Toffolo",
-  title = "Weapon-Target Assignment Problem: Exact and Approximate Solution Algorithms",
-  journal = "?",
-  volume = "?",
-  number = "?",
-  pages = "?--?",
-  year = "2020",
-  DOI ="?"
+    author = {Andersen, Alexandre Colaers and Pavlikov, Konstantin and Toffolo, T{\'u}lio A. M.},
+    date = {2022/01/13},
+    doi = {10.1007/s10479-022-04525-6},
+    isbn = {1572-9338},
+    journal = {Annals of Operations Research},
+    title = {Weapon-target assignment problem: exact and approximate solution algorithms},
+    url = {https://doi.org/10.1007/s10479-022-04525-6},
+    year = {2022},
+    bdsk-url-1 = {https://doi.org/10.1007/s10479-022-04525-6}}
 }
 ```
--->
+
+To cite the code or the paper, please use the bibtex above.
 
 ### Usage:
 
